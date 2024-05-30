@@ -18,3 +18,6 @@ forge 'https://forge.puppet.com'
 mod 'disable_computer',
    git: 'https://github.com/indraja224/windows_ad.git',
    branch: 'development'
+mod 'chaco'
+  git: 'git@github.com:indraja224/chacolaty.git'
+  branch:'production'
